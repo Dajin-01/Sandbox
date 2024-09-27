@@ -1,1 +1,1 @@
-print("Kim djain")
+"kim dajin"
